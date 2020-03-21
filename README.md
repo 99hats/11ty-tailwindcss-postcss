@@ -37,3 +37,7 @@ Easy to change. The postcss build command needs to respect these locations so ed
 tailwind. autoprefixer, cssnano
 
 You can delete the last two if you don't need them.
+
+## Forestry.io integration ##
+
+Rudimentary integration with http://forestry.io SSG headless CMS.
