@@ -2,4 +2,4 @@
 title: foo
 
 ---
-barstool fool
+barstool fool cool
