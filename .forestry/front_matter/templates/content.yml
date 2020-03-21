@@ -13,4 +13,5 @@ fields:
     maxSize: 250
   label: image
 pages:
+- src/content/bar.md
 - src/content/foo.md
