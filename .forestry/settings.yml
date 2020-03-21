@@ -11,7 +11,7 @@ sections:
   match: "**/*"
   exclude: "*.js*"
   templates:
-  - post
+  - content
 - type: document
   path: src/index.html
   label: index
