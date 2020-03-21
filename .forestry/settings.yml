@@ -9,6 +9,9 @@ sections:
   label: content
   create: all
   match: "**/*"
+  exclude: "*.js*"
+  templates:
+  - post
 - type: document
   path: src/index.html
   label: index
