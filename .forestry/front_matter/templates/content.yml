@@ -1,5 +1,5 @@
 ---
-label: post
+label: content
 hide_body: false
 fields:
 - name: title
@@ -8,4 +8,4 @@ fields:
     required: false
   label: title
 pages:
-- src/posts/foo.md
+- src/content/foo.md
