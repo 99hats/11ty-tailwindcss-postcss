@@ -2,4 +2,4 @@
 title: foo
 
 ---
-bar
+barstool
